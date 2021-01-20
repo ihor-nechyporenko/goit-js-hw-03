@@ -47,6 +47,7 @@ const atTheOldToad = {
     // Пиши код выше этой строки
   }
 
+
 console.table(atTheOldToad.getPotions());
 console.table(atTheOldToad.addPotion({ name: 'Невидимка', price: 620 }));
 console.table(atTheOldToad.addPotion({ name: 'Зелье силы', price: 270 }));
